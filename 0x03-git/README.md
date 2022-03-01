@@ -1,1 +1,1 @@
-This is an introduction to coding
+Programming is fun with the rigt collegues
